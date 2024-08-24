@@ -17,6 +17,13 @@ My current focus language is Python and looking to\
 get into Software and Applications Development as\
 a career after I leave.
 
+My belief is that any coding project that eventually\
+goes untouched, was not a waste of time, but full of\
+learning opportunities. I don't think tons of unfinished\
+projects is a bad thing, I think it shows willingness\
+to experiment and to try new things.
+
+
 ```python
 # A developer Haiku
 You learn as you make
