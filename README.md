@@ -9,13 +9,13 @@
 
 Kia Ora! Greetings!
 
-My name is Josh and I am currently in my third year\
-for my Bachelor's of Information Technology at Otago\
+My name is Josh and I am a recent graduate of\
+the Bachelor's of Information Technology at Otago\
 Polytechnic in Dunedin, New Zealand.
 
 My current focus language is Python and looking to\
 get into Software and Applications Development as\
-a career after I leave.
+a career.
 
 My belief is that any coding project that eventually\
 goes untouched, was not a waste of time, but full of\
